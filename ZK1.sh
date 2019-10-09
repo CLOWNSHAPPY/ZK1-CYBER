@@ -1,9 +1,9 @@
 clear
-figlet HACKER |lolcat
+figlet MR.CLOWN |lolcat
 echo "\33[31;1m[\33[0;32m======================================\33[31;1m]"
-echo "\33[31;1m[          \33[0;36mAuthor : ZK1_Cyber          \33[31;1m]"
+echo "\33[31;1m[          \33[0;36mAuthor : MR.CLOWN           \33[31;1m]"
 echo "\33[31;1m[      \33[0;36m[!] Gunakan Dengan Bijak [!]    \33[31;1m]"
-echo "\33[31;1m[        \33[0;36m[✓] SECURITY CYBER [✓]        \33[31;1m]"
+echo "\33[31;1m[        \33[0;36m[✓] ASHURA CYBER ARMY[✓]     \33[31;1m]"
 echo "\33[31;1m[\33[0;32m======================================\33[31;1m]"
 echo
 echo
@@ -19,18 +19,18 @@ echo "\33[0;32m[8] \33[31;1mScript Termux TERBARU"
 echo "\33[0;32m[9] \33[31;1mHack CCTV"
 echo "\33[0;32m[10] \33[31;1mVirtex WhatsApp"
 echo "\33[0;32m[11] \33[31;1mLacak IP Websites"
-echo "\33[0;32m[12] \33[31;1mSedang Proses, Mohon Sabar"
-echo "\33[0;32m[13] \33[31;1mSedang Proses, Mohon Sabar"
-echo "\33[0;32m[14] \33[31;1mSedang Proses, Mohon Sabar"
-echo "\33[0;32m[15] \33[31;1mSedang Proses, Mohon Sabar"
+echo "\33[0;32m[12] \33[31;1mLagi Proses cok , Mohon Sabar"
+echo "\33[0;32m[13] \33[31;1mLagi Proses cok , Mohon Sabar"
+echo "\33[0;32m[14] \33[31;1mLagi Proses cok , Mohon Sabar"
+echo "\33[0;32m[15] \33[31;1mlagi Proses cok , Mohon Sabar"
 echo
-echo "\33[0;32m[99] \33[31;1mInstall Bahan"
+echo "\33[0;32m[99] \33[31;1mLagi Menginstall Bahan su"
 echo "\33[0;32m[88] \33[31;1mKELUAR"
 echo "Install Bahan Dulu Supaya Gak Gagal"
 echo
-read -p "Masukan Pilihan Anda :" roniyt
+read -p "Mau Milih Apa Terserah Mu!!! :" mrclown
 
-case $roniyt in
+case $mrclown in
 1)
 clear
 sh spamroniyt.sh
@@ -91,7 +91,7 @@ apt upgrade
 pkg install nmap
 clear
 figlet ZK1IP | lolcat
-echo "Author : ZK1_CYBER" | lolcat
+echo "Author : MR. CLOWN" | lolcat
 echo "[+] Perintah Ketik : nmap -v -A (link website) [+]" | lolcat
 echo "[!] Warning !! Setiap Detik IP Bisa Berubah - Ubah" | lolcat
 ;;
@@ -106,16 +106,16 @@ pip2 install lolcat
 pkg install git
 pkg install python
 pkg install python2
-sh ZK1.sh
+sh MRCLOWN.sh
 ;;
 88)
 clear
-echo "Berhasil Keluar"
-echo "Terimakasih Telah Memakai TOOL Saya"
+echo "Sudah Keluar Dari Tools"
+echo "I Hope You Can Enjoy"
 ;;
 *)
 echo "Maaf Nomor Yang Anda Ketik Salah"
 sleep 5
-sh ZK1.sh
+sh MRCLOWN.sh
 ;;
 esac
